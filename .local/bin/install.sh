@@ -37,7 +37,7 @@ function clone_dotfiles_repository {
     if [ $? = 0 ]; then
         ok "Git repo cloned successfully."
     else
-        error "Git repo already exists; exiting"
+        error "Git repo already exists at $DOTFILES_DIR; exiting"
         exit $?
     fi
 }
