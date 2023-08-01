@@ -10,7 +10,8 @@ Hey! These are my dotfiles for the steam deck ^w^
 
 ## ↛ 📷 screens
 
-![showdown](https://github.com/jh-devv/steam-deck-dotfiles/assets/122896463/f27cfc16-2011-4626-a4f4-6eee0ce723fc)
+![showdown](https://github.com/jh-devv/steam-deck-dotfiles/assets/122896463/64dfc28f-e709-47a4-a686-dffb2fb93485)
+
 
 ---
 
