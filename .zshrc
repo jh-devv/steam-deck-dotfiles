@@ -43,6 +43,8 @@ zinit for annexes
 
 ### End of Zinit's installer chunk
 
+neofetch
+
 zinit for zsh-users+fast
 
 zinit ice as"command" from"gh-r" \

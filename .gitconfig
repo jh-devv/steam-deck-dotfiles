@@ -6,3 +6,4 @@
 	helper = !~/.local/bin/gh auth git-credential
 [user]
 	email = 122896463+jh-devv@users.noreply.github.com
+	name = jh-devv

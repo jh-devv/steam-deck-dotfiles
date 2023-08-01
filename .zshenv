@@ -9,7 +9,4 @@ export JAVA_HOME=~/.jdks/jbr-17.0.7/
 export PATH="$JAVA_HOME/bin:$PATH"
 export PATH="$PATH:$HOME/.cargo/env"
 export PATH="$PATH:$HOME/.local/share/JetBrains/Toolbox/scripts"
-export PATH=$PATH:~/.local/bin/go/bin
-
-# Aliases
-alias ls="ls --color"
+export PATH=$PATH:$HOME/.local/bin/go/bin
