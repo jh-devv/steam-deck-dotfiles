@@ -90,10 +90,10 @@ Color=205,214,244
 
 [General]
 Anchor=0.5,0.5
-Blur=false
+Blur=true
 ColorRandomization=false
 Description=Catppuccin Mocha
 FillStyle=Tile
-Opacity=0.9
+Opacity=0.6
 Wallpaper=
 WallpaperOpacity=1
