@@ -6,13 +6,8 @@ alias ...="cd ../.."
 alias ....="cd ../../.."
 alias .....="cd ../../../.."
 
-# ls stuff, most are set in lib/directories.zsh
-# I use lsd (https://github.com/Peltoche/lsd) for certain listings
-alias ls='ls -G'
-alias l='lsd -l'
-alias la='lsd -la'
-alias lt='ls -ltFho'   #long list,sorted by date,show type,human readable
-alias ldot='ls -ld .*' #list dot files
+# List files stuff
+alias ls="exa --icons -F -H --group-directories-first --git"
 
 # CD Shortcuts
 alias dl="cd ~/Downloads"
@@ -57,3 +52,4 @@ alias reload="exec ${SHELL} -l"
 
 # Print each PATH entry on a separate line
 alias path='echo -e ${PATH//:/\\n}'
+
